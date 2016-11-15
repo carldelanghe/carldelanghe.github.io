@@ -5,4 +5,4 @@ layout: site
 Welcome to my GitHub Pages website!
 Using Markdown!
 
-![This is a picture of me]()
+![This is a picture of me](images/CarlDeLanghe.jpg)
