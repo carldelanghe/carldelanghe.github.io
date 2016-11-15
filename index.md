@@ -10,4 +10,4 @@ Using Markdown!
 
 You can find my CV by [clicking here](cv)
 
-Besides my CV, I also host a [blog](2016-11-15_first_post)!
+Besides my CV, I also host a [blog](blog/posts/2016-11-15_first_post)!
